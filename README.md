@@ -3,9 +3,8 @@
 </div>
 
 <div>
-<h3 aling="center" class="heading element" dir="auto">Software development student at Instituto Nacional Tecnico Industrial</h3>
+  <h2 align="center" class="heading element" dir="auto">Software development student at Instituto Nacional Tecnico Industrial</h2>
 </div>
-
 
 
 
