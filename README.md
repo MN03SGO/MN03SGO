@@ -2,9 +2,9 @@
 <h1 align="center">Hi, I'm👋 <a href="">Anthony Sigarán 👋</a></h1>
 </div>
 
-<center>
-  Software development student at Instituto Nacional Tecnico Industrial
-</center>
+<h2 aling = center>   Software development student at Instituto Nacional Tecnico Industrial  </h2>
+
+
 
 
 
