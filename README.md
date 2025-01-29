@@ -44,3 +44,6 @@
 
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MN03SGO&hide_progress=true)
+
+
