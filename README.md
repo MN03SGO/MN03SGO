@@ -8,6 +8,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=cierto&vCenter=cierto&repeat=cierto&random=falso&width=447&height=54&lines=Si+puedes+imaginarlo%2C+puedes+programar;Love+to+learn+new+stuffs...+%3C3;Everything+is+possible+with+code;AD+ASTRA)](https://git.io/typing-svg)
 
+<br>About</br>
 
 *  🌱 I’m currently learning: C#, Kotlin...
 *  💬 Ask me about: Java, SQL, Linux...
