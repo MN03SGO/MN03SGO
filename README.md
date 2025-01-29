@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm <a href="">Anthony Sigarán 👋</a></h1>
 </div>
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&format=true)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=MN03SGO.visitor-badge&format=true)
 
 <div>
   <h3 align="center" class="heading element" dir="auto">Software development student at Instituto Nacional Tecnico Industrial</h3>
