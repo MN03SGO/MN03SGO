@@ -3,7 +3,7 @@
 </div>
 
 <div>
-<h2 aling="center" class="heading element" dir="auto">Software development student at Instituto Nacional Tecnico Industrial</h2>
+<h3 aling="center" class="heading element" dir="auto">Software development student at Instituto Nacional Tecnico Industrial</h3>
 </div>
 
 
