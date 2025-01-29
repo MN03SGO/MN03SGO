@@ -2,6 +2,8 @@
 <h1 align="center">Hi, I'm <a href="">Anthony Sigarán 👋</a></h1>
 </div>
 
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&format=true)
+
 <div>
   <h3 align="center" class="heading element" dir="auto">Software development student at Instituto Nacional Tecnico Industrial</h3>
 </div>
@@ -32,12 +34,13 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,java,debian,linux,html,css,js,kotlin,mysql,ps" />
+  
+<img src="https://skillicons.dev/icons?i=git,debian,linux,html,css,js,kotlin,java,mysql,ps" />
   </a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="max-width: 100%;">
+
+
