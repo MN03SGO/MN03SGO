@@ -34,7 +34,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
   
-<img src="https://skillicons.dev/icons?i=git,androidstudio,visualstudio,debian,linux,html,css,js,kotlin,java,mysql,ps" />
+<img src="https://skillicons.dev/icons?i=git,debian,linux,html,css,js,kotlin,java,mysql,ps" />
   </a>
 </p>
 
