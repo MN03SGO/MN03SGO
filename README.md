@@ -17,7 +17,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <br>About</br>
 
-*  🌱 I’m currently learning: Postgres
+*  🌱 I’m currently learning: Python
 *  💬 Ask me about: Java, Linux...
 *  📫 How to reach me: manuelsigaran789@gmail.com
 *  ⚡ Fun fact: I love learning from others...
@@ -37,7 +37,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
   
-<img src="https://skillicons.dev/icons?i=git,debian,linux,bash,html,css,js,kotlin,java,mysql,postgres,ps" />
+<img src="https://skillicons.dev/icons?i=git,debian,linux,bash,html,css,js,java,mysql,postgres,ps" />
   </a>
 </p>
 
