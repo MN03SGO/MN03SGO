@@ -23,8 +23,6 @@
 *  ⚡ Fun fact: I love learning from others...
 
 
-[![committers.top badge](https://user-badge.committers.top/el_salvador/USERNAME.svg)](https://user-badge.committers.top/el_salvador/USERNAME)
-
 
 <br><br>
 
