@@ -4,7 +4,7 @@
 
 
 <div>
-  <h3 align="center" class="heading element" dir="auto">Software development student at Instituto Nacional Tecnico Industrial</h3>
+  <h3 align="center" class="heading element" dir="auto">Software development Jr</h3>
 </div>
 
 <p align="center">
