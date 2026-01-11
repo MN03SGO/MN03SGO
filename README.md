@@ -22,7 +22,7 @@
 *  📫 How to reach me: manuelsigaran789@gmail.com
 *  ⚡ Fun fact: I love learning from others...
 
-
+![](https://api.visitorbadge.io/api/VisitorHit?user=MN03SGO&repo=github-visitors-badge&countColor=%237B1E7A)
 
 <br><br>
 
