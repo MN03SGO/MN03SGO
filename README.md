@@ -35,11 +35,15 @@
 <p align="center">
   <a href="https://skillicons.dev">
   
-<img src="https://skillicons.dev/icons?i=git,debian,linux,bash,html,css,js,java,mysql,postgres,ps" />
+<img src="https://skillicons.dev/icons?i=git,debian,linux,bash,html,css,js,java,mysql,postgres,ps,arduino,nginx,raspberrypi,windows,docker,github" />
   </a>
 </p>
+
+
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MN03SGO&langs_count=20)
+
 
