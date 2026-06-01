@@ -18,8 +18,9 @@
 <br>About</br>
 
 *  🌱 I’m currently learning: Python
-*  💬 Ask me about: Java, Linux...
+*  💬 Ask me about: Java, Linux, PostgreSQL
 *  📫 How to reach me: mn03sgo@proton.me
+*  ⚡ Fun fact: I LOVE PUPUSAS 
 *  ⚡ Fun fact: I love learning from others...
 
 ![](https://api.visitorbadge.io/api/VisitorHit?user=MN03SGO&repo=github-visitors-badge&countColor=%237B1E7A)
