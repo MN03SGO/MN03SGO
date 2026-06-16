@@ -36,10 +36,37 @@
 <p align="center">
   <a href="https://skillicons.dev">
   
-<img src="https://skillicons.dev/icons?i=git,debian,linux,bash,html,css,js,java,mysql,postgres,ps,arduino,nginx,raspberrypi,windows,docker,github" />
+<img src="https://skillicons.dev/icons?i=git,debian,linux,bash,html,css,js,java,mysql,postgres,ps,arduino,nginx,raspberrypi,windows,docker,github,gitlab,idea,netlify,npm,pnpm,redhat,supabase,vercel,react,ts" />
   </a>
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+ 
+
+##  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Streak Stats</b>
+ <div align=center>
+  
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MN03SGO&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF)](https://git.io/streak-stats)
+
+ </div>
+
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+ 
+ 
+##  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Activity Graph</b>
+ 
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MN03SGO&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+
+##  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Most Used Language<
+ <div align=center>
+  
+[![](https://github-readme-stats.vercel.app/api/top-langs?username=MN03SGO&show_icons=true&locale=en&layout=compact&theme=radical)]()  
+  
+ </div>
+ 
 
 
 
