@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=true&width=435&lines=Everything+is+possible+whit+code;Love+to+learnig+new+stuffs...+%3C3+;AD+ASTRA" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=true&width=435&lines=Everything+is+possible+whit+code;Love+to+learnig+new+stuffs...+%3C3+;I+LOVE+PUPUSAS" alt="Typing SVG">
   </a>
 </p>
 
@@ -36,7 +36,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
   
-<img src="https://skillicons.dev/icons?i=git,debian,linux,bash,html,css,js,java,mysql,postgres,ps,arduino,nginx,raspberrypi,windows,docker,github,gitlab,idea,netlify,npm,pnpm,redhat,supabase,vercel,react,ts" />
+<img src="https://skillicons.dev/icons?i=git,debian,linux,bash,html,css,js,java,mysql,postgres,ps,arduino,nginx,raspberrypi,docker,github,gitlab,idea,netlify,npm,pnpm,redhat,supabase,vercel,react,ts" />
   </a>
 </p>
 
